@@ -23,7 +23,7 @@ Fun group games to play online.
 
 #### [Just Dance](https://www.youtube.com/user/justdancegame)
 
-> Just Dance is a dance rhythm game. players must mimic the on-screen dancer's choreography to a chosen song using either motion controllers or the game's associated smartphone app.
+> Just Dance is a dance rhythm game. Players must mimic the on-screen dancer's choreography to a chosen song using either motion controllers or the game's associated smartphone app.
 
 #### [Skribbl](https://skribbl.io/)
 
@@ -43,11 +43,11 @@ Break the ice with these activities.
 
 #### Desert Island
 
-> You've been exiled to a deserted island for a year. In addition to the essentials, you may take one piece of music, one book (no religious text) and one luxury item you can carry with you i.e. not a boat (cell phone) to leave the island! Allow a few minutes for the participants to draw up their list of three items and collect and mix up choices. Randomly hand out choices and ask people to guess who made the choices.
+> You've been exiled to a deserted island for a year. In addition to the essentials, you may take one piece of music, one book (no religious text) and one luxury item you can carry with you i.e. not a boat or cell phone tower! Allow a few minutes for the participants to draw up their list of three items and collect and mix up choices. Randomly hand out choices and ask people to guess who made the choices.
 
 #### [Quick Questions Game](https://docs.google.com/presentation/d/1d6suolF0jxH5533h-AxTvcRlRYlqELzpQnrxpHErhQ8/edit#slide=id.p)
 
-> Questions to ask spark conversations and form connections. Make your own. 
+> Questions to ask to spark conversations and form connections. Make your own. 
 Questions are hidden on the slide. Pick a number and remove the top image to 
 reveal the question.
 
@@ -57,13 +57,13 @@ reveal the question.
 
 #### Virtues Board
 
-> What qualities and attitudes help us learn together? Have participants post qualities and attitudes on white board.
+> What qualities and attitudes help us learn together? Have participants post qualities and attitudes on a white board, e.g. https://jamboard.google.com/.
 
 ## Lesson Planning
 
 Resources for planning lessons.
 
-#### [Aotearoa Institute Resources fAnimators](http://aotearoa-institute.bahai.org.nz/resources-for-junior-youth-animators)
+#### [Aotearoa Institute Resources for Animators](http://aotearoa-institute.bahai.org.nz/resources-for-junior-youth-animators)
 
 > This page contains ideas, reference materials, forms and invitations. 
 
@@ -71,7 +71,7 @@ Resources for planning lessons.
 
 #### [To Serve Humanity](http://news.bahai.org/community-news/toserve/)
 
-> Films from the the Youth Conference's
+> Films from the the Youth Conference's.
 
 ## Web Apps
 
@@ -97,5 +97,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
-To the extent possible under law, Ken Rogers has waived all copyright and
-related or neighboring rights to this work.
+To the extent possible under law, all copyright and related or neighboring rights to this work are waived.
