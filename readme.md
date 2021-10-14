@@ -39,7 +39,7 @@ Fun group games to play virtually or in-person.
 
 > Discover who the spy is by asking careful questions. All except the spy share a crucial piece of knowledge: the location of this strange meeting. Use this knowledge to weed the spy out, but don't let them discover your location or the consequences will be dire. 
 
-## In-Person
+### In-Person
 
 #### [Camp Games](https://www.ultimatecampresource.com/camp-games/)
 
