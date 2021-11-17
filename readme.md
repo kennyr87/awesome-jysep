@@ -75,6 +75,10 @@ Resources for planning lessons.
 
 > This page contains ideas, reference materials, forms and invitations. 
 
+#### [Illustrated Stories](https://ruhichildrenstories.wordpress.com/)
+
+> Illustrated stories from the junior youth texts.
+
 ## Videos
 
 #### [To Serve Humanity](http://news.bahai.org/community-news/toserve/)
