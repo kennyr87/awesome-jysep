@@ -8,6 +8,7 @@
 - [Games](#games)
 - [Ice Breakers](#ice-breakers)
 - [Lesson Planning](#lesson-planning)
+- [Songs](#songs)
 - [Videos](#videos)
 - [Web Apps](#web-apps)
 
@@ -78,6 +79,12 @@ Resources for planning lessons.
 #### [Illustrated Stories](https://ruhichildrenstories.wordpress.com/)
 
 > Illustrated stories from the junior youth texts.
+
+## Songs
+
+#### [Ruhi Book 3, Grade 1](https://soundcloud.com/devongundry/sets/the-tui-tracks-ruhi-book-3)
+
+> Melodies to help kids (and adults!) memorize the quotes from the Ruhi Grade 1 Children's Classes.
 
 ## Videos
 
