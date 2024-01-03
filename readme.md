@@ -72,9 +72,13 @@ reveal the question.
 
 Resources for planning lessons.
 
+#### [Activities to Complement Walking the Straight Path](https://brilliantstarmagazine.org/parents-teachers/teaching-tools-techniques/teachers-ideas-exchange/brilliant-star-for-junior-youth-groups-walking-the-straight-path)
+
+>  List of activities, songs, and stories from Brilliant Star magazine can be used to complement the key themes in the book.
+
 #### [Supporting the Core Activities - Children's Classes](http://www.supportingthecoreactivities.org/childrens-classes/)
 
-> This page contains Grade 1, 2, 3, and 4 curriculum and resources. 
+> Grade 1, 2, 3, and 4 materials and resources. 
 
 #### [Illustrated Stories](https://ruhichildrenstories.wordpress.com/)
 
