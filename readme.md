@@ -1,6 +1,6 @@
 # JYSEP [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Awesome list of resources and activities for junior youth programs.
+> Awesome list of resources and activities for junior youth programs and children's classes for Ruhi curriculum.
 
 ## Contents
 
@@ -72,13 +72,17 @@ reveal the question.
 
 Resources for planning lessons.
 
-#### [Aotearoa Institute Resources for Animators](http://aotearoa-institute.bahai.org.nz/resources-for-junior-youth-animators)
+#### [Supporting the Core Activities - Children's Classes](http://www.supportingthecoreactivities.org/childrens-classes/)
 
-> This page contains ideas, reference materials, forms and invitations. 
+> This page contains Grade 1, 2, 3, and 4 curriculum and resources. 
 
 #### [Illustrated Stories](https://ruhichildrenstories.wordpress.com/)
 
-> Illustrated stories from the junior youth texts.
+> Illustrated stories from the junior youth texts and children's class curriculum.
+
+#### [Coloring Sheets](https://www.ruhi.org/en/coloring-sheets/)
+
+> Download coloring sheets from the children's class curriculum.
 
 ## Songs
 
