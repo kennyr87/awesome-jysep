@@ -74,7 +74,7 @@ Resources for planning lessons.
 
 #### [Activities to Complement Children's Classes and JY Groups](https://brilliantstarmagazine.org/parents-teachers/teaching-tools-techniques/teachers-ideas-exchange)
 
->  List of activities, songs, and stories from Brilliant Star magazine can be used to complement the key themes in the lessons.
+>  List of activities, songs, and stories from Brilliant Star magazine can be used to comttittplement the key themes in the lessons.
 
 #### [Supporting the Core Activities - Children's Classes](http://www.supportingthecoreactivities.org/childrens-classes/)
 
@@ -87,6 +87,10 @@ Resources for planning lessons.
 #### [Coloring Sheets](https://www.ruhi.org/en/coloring-sheets/)
 
 > Download coloring sheets from the children's class curriculum.
+
+#### [Little One Resources](https://www.teacherspayteachers.com/Store/Little-One-Resources)
+
+> Coloring Pages with quotes from the Baha'i Writings.
 
 ## Songs
 
