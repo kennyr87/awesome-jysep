@@ -112,10 +112,6 @@ Web apps and sites to help plan and organize lessons.
 
 > Canva is a graphic design platform that allows users to create social media graphics, presentations, posters and other visual content.
 
-#### [Jamboard](https://jamboard.google.com/)
-
-> G Suite's digital whiteboard.
-
 #### [Wheel of Names](https://wheelofnames.com/)
 
 > Spin the wheel of names to randomly pick a name from a list of group participants.
